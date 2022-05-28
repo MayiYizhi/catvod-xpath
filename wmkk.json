@@ -52,7 +52,7 @@
     "dtDescR": "",
     "dtFromNode": "//div[contains(@class,'bottom-line')]/h3",
     "dtFromName": "concat('播放源',count(parent::*/preceding::*//div[contains(@class,'bottom-line')]/h3) + 1)",
-    "dtFromNameR": "(\\S+).0",
+	"dtFromNameR": "(\\S+).0",
     "dtUrlNode": "//div[@class='stui-pannel_bd col-pd clearfix']/ul",
     "dtUrlSubNode": "/li/a",
     "dtUrlId": "@href",
