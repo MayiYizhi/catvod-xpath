@@ -722,6 +722,21 @@
       ]
     }
   ],
+  "flags": [
+    "youku",
+    "qq",
+    "iqiyi",
+    "qiyi",
+    "le",
+    "sohu",
+    "tudou",
+    "pptv",
+    "mgtv",
+    "bilibili",
+    "wasu",
+    "xigua",
+    "1905"
+  ],
   "ads": [
     "fars.ee",
     "ix.io",
