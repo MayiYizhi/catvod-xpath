@@ -38,7 +38,7 @@
     },
     {
       "key": "csp_GitCafe",
-      "name": "小纸条",
+      "name": "小纸条(SP)",
       "type": 3,
       "api": "csp_GitCafe",
       "searchable": 1,
@@ -47,7 +47,7 @@
     },
     {
       "key": "csp_AliPanSou",
-      "name": "阿里盘搜",
+      "name": "阿里盘搜(SP)",
       "type": 3,
       "api": "csp_AliPanSou",
       "searchable": 1,
