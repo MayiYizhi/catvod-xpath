@@ -86,7 +86,7 @@
     },
     {
       "key": "csp_xpath_猫群自维护库108",
-      "name": "小熊",
+      "name": "小熊影视(XP)",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 1,
@@ -96,7 +96,7 @@
     },
     {
       "key": "csp_xpath_猫群自维护源renren",
-      "name": "人人",
+      "name": "人人影视(XPMac)",
       "type": 3,
       "api": "csp_XPathMacFilter",
       "searchable": 1,
@@ -106,7 +106,7 @@
     },
     {
       "key": "csp_xpath_naikan",
-      "name": "耐看",
+      "name": "耐看影视(XP)",
       "type": 3,
       "api": "csp_XPathFilter",
       "searchable": 1,
@@ -116,7 +116,7 @@
     },
     {
       "key": "csp_xpath_猫群自维护库kankan",
-      "name": "看看",
+      "name": "完美看看(XPMac)",
       "type": 3,
       "api": "csp_XPathMacFilter",
       "searchable": 1,
