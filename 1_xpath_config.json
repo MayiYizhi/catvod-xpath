@@ -11,7 +11,7 @@
     },
     {
       "key": "csp_Cokemv",
-      "name": "焦炭（SP）",
+      "name": "焦炭(SP)",
       "type": 3,
       "api": "csp_Cokemv",
       "searchable": 1,
