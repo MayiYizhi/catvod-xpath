@@ -31,8 +31,18 @@
       "ext": "https://cattv.coding.net/p/catvod/d/xpath/git/raw/master/qiyou.json"
     },
     {
+      "key": "csp_xpath_爱港剧",
+      "name": "爱港剧(XPMac)",
+      "type": 3,
+      "api": "csp_XPathMacFilter",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://cattv.coding.net/p/catvod/d/xpath/git/raw/master/2gangju.json"
+    },
+    {
       "key": "csp_xpath_cokemv",
-      "name": "Cokemv(XPMac)",
+      "name": "酷可(XPMac)",
       "type": 3,
       "api": "csp_XPathMacFilter",
       "searchable": 1,
